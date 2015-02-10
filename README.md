@@ -59,3 +59,9 @@ Responsiblities|Collaborators
 Holds games | Player
 Holds groups | Groups
  | Players
+
+#### The Team
+
++ [Daniel Cutler](https://github.com/danjocutler)
++ [Nicole Pellicena Tredway](https://github.com/NicolePell)
++ [Alex Fakhri](https://github.com/alexfakhri)
